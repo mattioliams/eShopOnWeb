@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-mattioliams
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: "3afbb84e-c4dc-4306-b05b-2b05841feb9e"
+  SUBSCRIPTION-ID: 3afbb84e-c4dc-4306-b05b-2b05841feb9e
   WEBAPP-NAME: az400-webapp-eshoponweb
 
 
